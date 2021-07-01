@@ -1,5 +1,4 @@
-'''@author:- Mohammed Usama, Date:- 27-06-2021, 14:17
-learned from "code hero" on youtube'''
+'''@author:- Mohammed Usama, Date:- 27-06-2021, 14:17'''
 
 
 import cv2
